@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D24,50:00A651,100:0B3D24&height=190&section=header&text=Muhderator&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Full-stack%20developer%20%F0%9F%87%B8%F0%9F%87%A6%20bots,%20APIs,%20dashboards&descSize=17&descAlignY=62&animation=fadeIn" width="100%" alt="Muhderator" />
 
-<a href="https://github.com/Muhderator">
+<a href="https://github.com/xnezar">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00A651&center=true&vCenter=true&width=600&lines=Discord+bots+with+real+architecture;Backend+%2B+dashboard+%2B+everything+between;Arabic+%2F+English%2C+RTL+done+properly" alt="Typing SVG" />
 </a>
 
