@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D24,50:00A651,100:0B3D24&height=190&section=header&text=Muhderator&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Full-stack%20developer%20%F0%9F%87%B8%F0%9F%87%A6%20bots,%20APIs,%20dashboards&descSize=17&descAlignY=62&animation=fadeIn" width="100%" alt="Muhderator" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D24,50:00A651,100:0B3D24&height=190&section=header&text=Muhderator&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Full-stack%20developer%20%F0%9F%87%B8%F0%9F%87%A6%20bots,%20APIs,%20dashboards&descSize=17&descAlignY=62&animation=fadeIn" width="100%" alt="xnezar" />
 
 <a href="https://github.com/xnezar">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00A651&center=true&vCenter=true&width=600&lines=Discord+bots+with+real+architecture;Backend+%2B+dashboard+%2B+everything+between;Arabic+%2F+English%2C+RTL+done+properly" alt="Typing SVG" />
@@ -8,8 +8,8 @@
 
 <br />
 
-<img src="https://img.shields.io/github/followers/Muhderator?style=for-the-badge&color=00A651&labelColor=0B3D24" alt="Followers" />
-<img src="https://komarev.com/ghpvc/?username=Muhderator&style=for-the-badge&color=00A651&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/xnezar?style=for-the-badge&color=00A651&labelColor=0B3D24" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=xnezar&style=for-the-badge&color=00A651&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -100,11 +100,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhderator&bg_color=0D1117&color=00A651&line=00A651&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xnezar&bg_color=0D1117&color=00A651&line=00A651&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Muhderator&theme=dark&hide_border=true&background=0D1117&ring=00A651&fire=00A651&currStreakLabel=00A651&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=xnezar&theme=dark&hide_border=true&background=0D1117&ring=00A651&fire=00A651&currStreakLabel=00A651&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 
 </div>
 
@@ -115,10 +115,10 @@
 <div align="center">
 
 <a href="https://discord.com/users/555548634104594477">
-  <img src="https://img.shields.io/badge/Discord-Muhderator-00A651?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-xnezar-00A651?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
-<a href="https://github.com/Muhderator">
-  <img src="https://img.shields.io/badge/GitHub-Muhderator-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/xnezar">
+  <img src="https://img.shields.io/badge/GitHub-xnezar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -137,7 +137,7 @@
   a snake animation "eating" your contribution squares. Genuinely one of the
   more impressive things a profile README can have, and almost nobody bothers.
 
-  1. In this same Muhderator/Muhderator repo, create:
+  1. In this same xnezar/xnezar repo, create:
      .github/workflows/snake.yml
      with this content:
 
@@ -156,7 +156,7 @@
            - uses: Platane/snk@v3
              id: snake
              with:
-               github_user_name: Muhderator
+               github_user_name: xnezar
                outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
            - uses: crazy-max/ghaction-github-pages@v4
              with: { target_branch: output, build_dir: dist }
@@ -165,5 +165,5 @@
   2. Commit it, then run it once manually (Actions tab → snake → Run workflow).
   3. Add this line wherever you want it to show, once the `output` branch exists:
 
-     <img src="https://raw.githubusercontent.com/Muhderator/Muhderator/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
+     <img src="https://raw.githubusercontent.com/xnezar/xnezar/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
 -->
